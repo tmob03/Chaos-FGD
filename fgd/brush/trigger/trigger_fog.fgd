@@ -1,0 +1,4 @@
+@SolidClass base(Trigger) 
+= trigger_fog: "A trigger that creates fog in its volume. A less feature-rich version of fog_volume."
+	[
+	]

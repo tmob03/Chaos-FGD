@@ -1,0 +1,5 @@
+@SolidClass base(trigger_teleport)
+	appliesto(+engine)
+= trigger_momentum_teleport: "Alt name for trigger_teleport."
+	[
+	]

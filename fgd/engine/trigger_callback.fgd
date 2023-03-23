@@ -1,0 +1,5 @@
+@SolidClass base(Trigger)
+	appliesto(+engine)
+= trigger_callback: "Code callback? Useless to mappers"
+	[
+	]

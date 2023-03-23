@@ -1,0 +1,6 @@
+// Todo: Fix duplicate classname error with Trigger base
+//@SolidClass base(Trigger)
+//	appliesto(+engine)
+//= trigger: "Internal CBaseTrigger entity"
+//	[
+//	]   

@@ -1,0 +1,12 @@
+@BaseClass = BaseFog
+	[
+	fogenable(boolean) : "Fog Enable" : 1 : "Whether or not the fog should start enabled."
+	fogblend(boolean) : "Fog Blend" : 0 : "Enables color blending between the primary color and the secondary color. " + "When looking at the Primary Fog Direction, the primary fog color will appear. When looking away, the secondary color will. " +
+	"Looking between directly at the direction and directly away will cause color blending."
+	fogcolor(color255) : "Primary Fog Color" : "255 255 255" : "The color of the fog. If fog blend is enabled, this color blends with the secondary color when not looking at the primary fog direction."
+	fogcolor2(color255) : "Secondary Fog Color" : "255 255 255" : "The secondary fog color. If fog blend is disabled, this color will never appear."
+	fogdir(vector) : "Primary Fog Direction" : "1 0 0" : "If fog blend is enabled, this is the direction that shows only the primary color. Directly away is the secondary color and in-between the colors are blended."
+	fogstart(float) : "Fog Start" : "500.0" : "The distance from the player the fog starts."
+	fogend(float) : "Fog End" : "2000.0" : "The distance from the player the fog reaches the Fog Max Density keyvalue."
+	farz(float) : "Far Z Clip Plane" : "-1" : "The distance at which the world will not be rendered."
+	]

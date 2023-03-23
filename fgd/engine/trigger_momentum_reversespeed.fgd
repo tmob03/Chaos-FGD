@@ -1,0 +1,5 @@
+@SolidClass base(trigger_reversespeed)
+	appliesto(+engine)
+= trigger_momentum_reversespeed: "Alt name for trigger_reversespeed."
+	[
+	]

@@ -1,0 +1,5 @@
+@SolidClass base(trigger_userinput)
+	appliesto(+engine)
+= trigger_momentum_userinput: "Alt name for trigger_userinput."
+	[
+	]
