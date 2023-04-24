@@ -1,6 +1,6 @@
 @SolidClass 
 	appliesto(+MOMENTUM, -engine) 
-= func_slick: "An entity that turns selected brushes slick for the player."
+= func_slick: "An entity that turns selected brushes slick for the player. Use func_slide for customization." 
 	[
 	]
   
