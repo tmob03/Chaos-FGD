@@ -1,0 +1,6 @@
+@PointClass base(Weapon)
+	appliesto(+engine, P2CE)
+	studioprop("models/player/eggbot/eggbot_flag.mdl")
+= weapon_promo_antenna_egg: "Orange flag intended to be worn by P-Body"
+	[
+	]

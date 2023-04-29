@@ -1,0 +1,6 @@
+@PointClass base(Weapon)
+	appliesto(+engine, P2CE)
+	studioprop("models/player/eggbot/eggbot_cage.mdl")
+= weapon_promo_helmet_egg: "Yellow chassis intended to be worn by P-Body"
+	[
+	]

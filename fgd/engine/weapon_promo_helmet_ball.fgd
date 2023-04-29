@@ -1,0 +1,6 @@
+@PointClass base(Weapon)
+	appliesto(+engine, P2CE)
+	studioprop("models/player/ballbot/ballbot_cage.mdl")
+= weapon_promo_helmet_ball: "Yellow chassis intended to be worn by ATLAS"
+	[
+	]

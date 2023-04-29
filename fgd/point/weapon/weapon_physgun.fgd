@@ -1,0 +1,6 @@
+@PointClass base(Weapon) 
+	appliesto(+HL2_ENTITIES)
+	studioprop("models/weapons/w_physics.mdl") 
+= weapon_physgun: "The physics gun, AKA physgun."
+	[
+	]

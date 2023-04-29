@@ -1,0 +1,6 @@
+@PointClass base(Weapon)
+	appliesto(+engine, P2CE)
+	studioprop("models/player/ballbot/ballbot_flag.mdl")
+= weapon_promo_antenna_ball: "Blue flag intended to be worn by ATLAS"
+	[
+	]

@@ -1,0 +1,6 @@
+@PointClass base(Weapon) 
+	appliesto(P2CE)
+	studioprop("models/weapons/w_portalgun.mdl") 
+= weapon_portal_base: "If a valid weapon script is named 'weapon_portal_base.txt', it will use those values and act as a semi-custom weapon."
+	[
+	]

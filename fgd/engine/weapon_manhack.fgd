@@ -1,0 +1,6 @@
+@PointClass base(Weapon)
+	appliesto(+engine, +HL2_ENTITIES)
+	studioprop("models/manhack.mdl")
+= weapon_manhack: "HL2 beta manhack weapon."
+	[
+	]

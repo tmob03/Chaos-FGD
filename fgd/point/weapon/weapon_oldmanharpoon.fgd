@@ -1,0 +1,6 @@
+@PointClass base(Weapon)
+	appliesto(+HL2_ENTITIES)
+	studio("models/lostcoast/fisherman/harpoon.mdl") 
+= weapon_oldmanharpoon : "Lost coast harpoon used by the fisherman."
+	[
+	]

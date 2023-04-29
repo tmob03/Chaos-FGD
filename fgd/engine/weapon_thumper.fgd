@@ -1,0 +1,6 @@
+@PointClass base(BaseEntityAnimating)
+	appliesto(+engine, +HL2_ENTITIES)
+	studioprop("models/fire_equipment/w_firehydrant.mdl")
+= weapon_thumper: "HL2 beta entity, use prop_thumper instead."
+	[
+	]
