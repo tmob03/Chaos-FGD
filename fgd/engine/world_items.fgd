@@ -1,0 +1,11 @@
+@PointClass base(BaseEntityPoint)
+	appliesto(+engine)
+= world_items: "A depreciated entity to spawn item_suit or item_battery entities. Spawn them directly instead"
+	[
+	type[engine](integer) : "Entity to spawn" : 45
+	type(choices) : "Entity to spawn" : 45 : "What entity will spawn on map load." =
+		[
+		44 : "item_battery"
+		45 : "item_suit"
+		]
+	]
